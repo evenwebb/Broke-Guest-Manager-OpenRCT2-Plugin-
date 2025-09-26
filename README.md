@@ -36,19 +36,19 @@ A comprehensive OpenRCT2 plugin that helps manage guests who have run out of mon
 
 ## 📦 Installation
 
-1. **Download** the latest `broke-guest-manager-v12.js` file
+1. **Download** the latest `broke-guest-manager.js` file
 2. **Place** it in your OpenRCT2 plugin directory:
    - **Windows**: `%USERPROFILE%\Documents\OpenRCT2\plugin\`
    - **macOS**: `~/Documents/OpenRCT2/plugin/`
    - **Linux**: `~/.config/OpenRCT2/plugin/`
 3. **Restart** OpenRCT2 or reload plugins
-4. **Access** via the "Broke Guest Manager v12" menu item
+4. **Access** via the "Broke Guest Manager" menu item
 
 ## 🚀 Quick Start
 
 ### Basic Usage
 1. Open your park in OpenRCT2
-2. Click "Broke Guest Manager v12" in the menu
+2. Click "Broke Guest Manager" in the menu
 3. The main window shows:
    - Current count of broke guests and guests who can't afford rides
    - Cheapest ride price (used as threshold)
